@@ -1,3 +1,9 @@
+epics-cagateway (2.0.6.0-3) unstable; urgency=medium
+
+  * Bump up standards version and compat level
+
+ -- Martin Konrad <konrad@frib.msu.edu>  Mon, 23 Sep 2019 16:10:22 -0400
+
 epics-cagateway (2.0.6.0-2) unstable; urgency=low
 
   [ mdavidsaver ]
